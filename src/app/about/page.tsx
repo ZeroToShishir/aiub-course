@@ -114,7 +114,10 @@ const About = () => {
         </a>
       </p>
 
-     
+      <h3 className="text-xl font-semibold text-blue-400 flex items-center mb-4">
+        <FiUser className="h-6 w-6 mr-2" />
+        .........
+      </h3>
       <p className="mb-6">
         <FaDiscord className="inline-block h-5 w-5 text-indigo-500 mr-2" />
         Join our Discord:{" "}
