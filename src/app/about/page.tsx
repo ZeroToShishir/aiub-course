@@ -114,13 +114,7 @@ const About = () => {
         </a>
       </p>
 
-      <h3 className="text-xl font-semibold text-blue-400 flex items-center mb-4">
-        <FiUser className="h-6 w-6 mr-2" />
-        Developed by:
-        <a href="https://roman0190.github.io/portfolio/" target="_blank" className="text-blue-500 underline ml-2">
-          Roman Howladar
-        </a>
-      </h3>
+     
       <p className="mb-6">
         <FaDiscord className="inline-block h-5 w-5 text-indigo-500 mr-2" />
         Join our Discord:{" "}
